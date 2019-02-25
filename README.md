@@ -63,9 +63,9 @@ lyservice service on (starts service and enables autostart)
 ```
 ## Updating (minor updates, no service restart)
 ```
-lyservice update accelerid
+lyservice update service
 ```
 ## Upgrading (major updates, requiring restart of service)
 ```
-lyservice upgrade accelerid
+lyservice upgrade service
 ```
